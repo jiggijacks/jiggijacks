@@ -148,4 +148,4 @@ A modern redesign of the Access ARM Pensions website focused on improving usabil
 
 ---
 
-*"I believe great software is more than clean code—it solves real problems, scales with confidence, and creates meaningful experiences for the people who use it."*
+*"I believe great software is more than clean code, it solves real problems, scales with confidence, and creates meaningful experiences for the people who use it."*
