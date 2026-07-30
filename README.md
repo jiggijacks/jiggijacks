@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiggijacks/jiggijacks/main/23D62D15-AC1E-4C5D-AED3-641B07206EAA.png" width="100%" alt="Abner Esien Banner">
+  <img src="https://raw.githubusercontent.com/jiggijacks/-access-arm-redesign./main/23D62D15-AC1E-4C5D-AED3-641B07206EAA.png" alt="Abner Esien Banner" width="100%">
 </p>
 
 # Abner Esien
