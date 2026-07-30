@@ -20,12 +20,6 @@ I care about clean architecture, intuitive user experience, scalable backend sys
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiggijacks)
-
----
-
 ## Contribution Streak
 
 <p align="center">
