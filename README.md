@@ -20,6 +20,39 @@ I care about clean architecture, intuitive user experience, scalable backend sys
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiggijacks&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiggijacks&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jiggijacks&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,mysql,postgres,supabase,git,github,docker,figma,vscode,tailwind,html,css" />
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jiggijacks&style=flat-square&color=000000" alt="Profile Views"/>
+</p>
+
+---
+
 ## Featured Projects
 
 ### Course Cellar
