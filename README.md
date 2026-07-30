@@ -22,10 +22,7 @@ I care about clean architecture, intuitive user experience, scalable backend sys
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiggijacks&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiggijacks&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiggijacks)
 
 ---
 
