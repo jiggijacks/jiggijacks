@@ -1,76 +1,97 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiggijacks/-access-arm-redesign./main/23D62D15-AC1E-4C5D-AED3-641B07206EAA.png" alt="Abner Esien Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/jiggijacks/jiggijacks/main/23D62D15-AC1E-4C5D-AED3-641B07206EAA.png" width="100%" alt="Abner Esien Banner">
 </p>
 
 # Abner Esien
 
-Full-Stack Software Engineer
+Full-Stack Product Engineer
 
-I design and build scalable web applications, SaaS platforms, fintech solutions, and business systems that help businesses, creators, and startups grow. My work focuses on performance, security, scalability, and delivering exceptional user experiences.
+I build scalable web applications, SaaS platforms, fintech solutions, AI-powered tools, and business software with a focus on performance, reliability, and user experience.
+
+Currently building products that solve real business problems across Africa.
+
+---
+
+## About
+
+I enjoy turning ideas into production-ready software. My work spans creator platforms, fintech, logistics, AI, business automation, and digital infrastructure.
+
+I care about clean architecture, intuitive user experience, scalable backend systems, and building products that people actually use.
 
 ---
 
 ## Featured Projects
 
 ### Course Cellar
-An all-in-one creator business platform for Africa that enables creators to sell courses, memberships, digital products, coaching, communities, and events from a single platform.
+The all-in-one creator business platform for Africa.
 
-**Technologies:** Laravel, PHP, JavaScript, MySQL, Tailwind CSS
+Features:
+- Online Courses
+- Memberships
+- Digital Products
+- Communities
+- Coaching
+- Events
+- Affiliate System
+- Creator Storefronts
+
+**Stack:** Laravel • PHP • MySQL • JavaScript • Paystack
 
 ---
 
 ### Credixa
-A fintech platform built to simplify digital lending, customer management, and financial services with a secure and scalable architecture.
 
-**Technologies:** Laravel, PHP, MySQL
+Digital lending and financial services platform with secure customer management and automated workflows.
+
+**Stack:** Laravel • PHP • MySQL
 
 ---
 
 ### ViralPeak
-Website: https://viralpeak.org
 
-A digital marketing and social media growth platform providing promotional services and marketing solutions for businesses, creators, and brands.
+https://viralpeak.org
 
----
-
-### ZedXpress
-Website: https://zedxpress.org
-
-A courier and logistics platform for shipment booking, package tracking, delivery management, and customer support.
+Social media growth platform providing digital marketing services for creators, brands, and businesses.
 
 ---
 
 ### TopCryptoDrop
-Website: https://www.tcc.name.ng
 
-A cryptocurrency rewards and promotional campaign platform designed for community engagement, giveaways, and blockchain marketing.
+https://www.tcc.name.ng
+
+Crypto rewards and a campaign platform built for community engagement and promotional activities.
 
 ---
 
-### Binance Copilot (Hackathon)
-An AI-powered trading assistant concept developed for the Binance Hackathon, providing intelligent market insights, portfolio analysis, and trading workflows.
+### ZedXpress
+
+https://zedxpress.org
+
+Courier and logistics platform for shipment booking, package tracking, and delivery management.
 
 ---
 
 ### Access ARM Redesign
-A modern redesign of the Access ARM Pensions website focused on improving usability, accessibility, responsiveness, and overall user experience.
+
+The modern redesign concept focused on accessibility, usability, trust, and responsive user experience.
 
 ---
 
-## Services
+### Binance Copilot (Hackathon)
 
-- SaaS Application Development
-- Full-Stack Web Development
-- Laravel Development
-- REST API Development
-- Business Website Development
-- FinTech Solutions
-- Courier & Logistics Platforms
-- Creator Economy Platforms
-- Professional Business Email Setup (Google Workspace & Microsoft 365)
-- Google AdSense Consultation and Website Monetization
-- UI/UX Design Implementation
-- Website Performance Optimization
+An AI-powered trading assistant concept created during the Binance Hackathon for market insights and intelligent trading workflows.
+
+---
+
+### Professional Business Email Services
+
+Business email deployment using Microsoft 365 and Google Workspace, including DNS configuration, migration, SPF, DKIM, and DMARC setup.
+
+---
+
+### Google AdSense Services
+
+Helping businesses prepare websites for Google AdSense approval, optimization and monetization.
 
 ---
 
@@ -81,8 +102,8 @@ A modern redesign of the Access ARM Pensions website focused on improving usabil
 - PHP
 - JavaScript
 - TypeScript
-- SQL
 - Python
+- SQL
 
 ### Frontend
 
@@ -97,55 +118,57 @@ A modern redesign of the Access ARM Pensions website focused on improving usabil
 
 - Laravel
 - Node.js
+- Express
 - REST APIs
+- Supabase
 - MySQL
 - PostgreSQL
-- Supabase
 
-### Tools & Platforms
+### Cloud & DevOps
 
 - Git
 - GitHub
 - Docker
-- VS Code
-- Figma
-- Postman
 - Linux
 - cPanel
 - Cloudflare
 
----
+### Design
 
-## Industries
-
-- FinTech
-- EdTech
-- Creator Economy
-- Logistics
-- Digital Marketing
-- Business Automation
-- Artificial Intelligence
+- Figma
+- Adobe Photoshop
 
 ---
 
-## Currently Working On
+## Current Focus
 
-- Course Cellar
-- DevJiggy Portfolio
-- AI-powered business solutions
-- Modern SaaS applications
-- Open-source developer tools
+- Building Course Cellar
+- SaaS Platforms
+- AI-powered Business Software
+- Product Engineering
+- Developer Tools
+
+---
+
+## Open To
+
+- Full-Time Software Engineering Roles
+- Remote Opportunities
+- Freelance Projects
+- Startup Collaborations
+- Technical Consulting
 
 ---
 
 ## Contact
 
-**Email:** 1jiggijacks@gmail.com
+Email: **1jiggijacks@gmail.com**
 
-**LinkedIn:** https://www.linkedin.com/in/essienakpabio
+LinkedIn:
+https://www.linkedin.com/in/essienakpabio
 
-**GitHub:** https://github.com/Jiggijacks
+Portfolio:
+in development 
 
----
-
-*"I believe great software is more than clean code, it solves real problems, scales with confidence, and creates meaningful experiences for the people who use it."*
+GitHub:
+https://github.com/jiggijacks
